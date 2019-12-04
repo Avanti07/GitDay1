@@ -1,4 +1,0 @@
-ERROR 2019-12-04 01:15:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
-ERROR 2019-12-04 01:15:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
-ERROR 2019-12-04 01:15:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
-WARN  2019-12-04 01:18:55 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
