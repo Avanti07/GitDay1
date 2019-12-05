@@ -1,0 +1,6 @@
+Thu Dec  5 00:22:42 PST 2019 new release available
+
+** (check-new-release-gtk:2617): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-P0ydYAA6X6: Connection refused
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING:root:found new dist 'bionic' but it is on the ignore list

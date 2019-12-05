@@ -1,0 +1,5 @@
+
+(bamfdaemon:9100): Gdk-WARNING **: bamfdaemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+** (bamfdaemon:2637): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-P0ydYAA6X6: Connection refused

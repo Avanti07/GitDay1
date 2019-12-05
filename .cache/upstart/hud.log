@@ -1,0 +1,2 @@
+hud-service: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No such interface 'com.canonical.dbusmenu' on object at path /org/ayatana/bamf/window/10485770"
